@@ -1,0 +1,23 @@
+HARBOUR & FINCH LTD
+Independent design studio
+Unit 4, 21 Shacklewell Lane, London E8 2EZ, United Kingdom
+Company no. 09876543 · VAT reg. no. GB 123 4567 89
+
+INVOICE HF-0219
+
+Invoice date:   03/08/2026
+Payment terms:  30 days, due 02/09/2026
+
+Client:
+Atelier Noord BV
+Kortrijksesteenweg 112, 9000 Gent, Belgium
+
+Item                                      Qty     Rate          Amount
+Brand workshop (1 day, on-site)             1     £1,200.00     £1,200.00
+Illustration set – custom icons             6       £150.00       £900.00
+
+Subtotal                                                       £2,100.00
+VAT – outside the scope of UK VAT (B2B service, EU customer)       £0.00
+Total due (GBP)                                                £2,100.00
+
+Bank: Example Bank plc · Sort code 00-00-00 · Account 00000000

@@ -1,0 +1,31 @@
+Bürowelt Schmidt GmbH
+Hansaring 48 · 50670 Köln · Deutschland
+Tel. +49 221 555 0142 · buchhaltung@buerowelt-schmidt.example
+USt-IdNr.: DE 143 454 214
+
+Rechnung an:
+Atelier Noord BV
+Kortrijksesteenweg 112
+9000 Gent, Belgien
+USt-IdNr. Kunde: BE 0123.456.789
+
+RECHNUNG
+
+Rechnungsnummer:   RE-2026-0587
+Rechnungsdatum:    08.09.2026
+Lieferdatum:       04.09.2026
+Fällig am:         08.10.2026 (30 Tage netto)
+
+Pos.  Artikel                               Menge   Einzelpreis      Gesamt
+1     Kopierpapier A4, 80 g, 500 Blatt         25        4,90 €    122,50 €
+2     Toner HP 59A schwarz                      3       97,90 €    293,70 €
+3     Ordner breit, 8 cm, blau                 20        2,40 €     48,00 €
+4     Heftklammern 24/6, 1.000 Stück           10        1,85 €     18,50 €
+
+                                         Nettobetrag              482,70 €
+                                         USt. 0 %                   0,00 €
+                                         Rechnungsbetrag          482,70 €
+
+Steuerfreie innergemeinschaftliche Lieferung gemäß § 4 Nr. 1b UStG.
+Bitte überweisen Sie den Betrag unter Angabe der Rechnungsnummer.
+IBAN: DE00 0000 0000 0000 0000 00 (Beispiel) · BIC: EXAMPLEXXX

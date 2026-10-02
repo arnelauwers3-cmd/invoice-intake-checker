@@ -1,0 +1,27 @@
+FAKTURA VAT nr FV/2026/07/118
+
+Data wystawienia: 10.07.2026
+Data sprzedaży:   08.07.2026
+Termin płatności: 24.07.2026
+Forma płatności:  przelew
+
+Sprzedawca:
+Drukarnia Wisła Sp. z o.o.
+ul. Długa 14, 31-147 Kraków, Polska
+NIP UE: PL1234567890
+
+Nabywca:
+Atelier Noord BV
+Kortrijksesteenweg 112, 9000 Gent, Belgia
+VAT UE: BE0123456789
+
+Lp.  Nazwa towaru / usługi                Ilość    Cena netto   Wartość netto
+1    Ulotki A5, kreda 170 g, druk 4+4      5 000         0,12          600,00
+2    Wizytówki 85x55 mm, 350 g             1 000         0,18          180,00
+
+Razem netto:          780,00 PLN
+Stawka VAT:           np. (odwrotne obciążenie)
+Kwota VAT:              0,00 PLN
+Do zapłaty:           780,00 PLN
+
+Słownie: siedemset osiemdziesiąt złotych 00/100

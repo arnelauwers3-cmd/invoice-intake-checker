@@ -1,0 +1,32 @@
+Cloudnest, Inc.
+548 Market St, Suite 220
+San Francisco, CA 94104
+United States
+billing@cloudnest.example
+
+INVOICE
+
+Invoice number   INV-10307
+Date of issue    September 15, 2026
+Date due         September 29, 2026
+
+Bill to
+Atelier Noord BV
+Kortrijksesteenweg 112
+9000 Gent
+Belgium
+VAT BE0123456789
+
+Billing period: Sep 1, 2026 – Sep 30, 2026
+
+Description                         Qty    Unit price      Amount
+Team plan (monthly) – per seat        5       $12.00       $60.00
+Extra storage 100 GB                  1       $25.00       $25.00
+
+                                    Subtotal               $85.00
+                                    Tax (0%)                $0.00
+                                    Total                  $85.00
+                                    Amount due         $85.00 USD
+
+Reverse charge: the customer is liable to account for VAT.
+Pay online at https://pay.cloudnest.example/inv/10307
